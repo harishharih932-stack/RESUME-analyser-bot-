@@ -1,0 +1,6 @@
+{
+  "name": "TalentRank AI",
+  "description": "Automated Resume Screening and Candidate Ranking System Using Hybrid NLP and Machine Learning",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
